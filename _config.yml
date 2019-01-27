@@ -1,13 +1,13 @@
 # main text of home
 name: Aryan Saini
-bio: Senior at Indraprastha Institute of technology
+bio: Undergraduate Researcher at Weave Lab, IIIT Delhi.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: 
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: Aaryan90.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -51,7 +51,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: aryan15134@iiitd.ac.in
 
 authors:
     johndoe:
