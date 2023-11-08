@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Exertion Games Lab</a>. 
+subtitle: <a href='#'>Exertion Games Lab</a> 
 
 profile:
   align: right
