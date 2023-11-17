@@ -1,25 +1,22 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: PneuMa
+description: Designing pneumatic bodily extensions for supporting movement in everyday life
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Prior research around the design of interactive systems has highlighted the benefits of supporting embodiment in everyday life.
+    This resulted in the creation of body-centric systems that leverage movement. However, these advances supporting movement in everyday
+    life, aligning with the embodiment theory, so far focused on sensing movement as opposed to facilitating movement. We present PneuMa, 
+    a novel wearable system that can facilitate movement in everyday life through pneumatic-based bodily extensions. We showcase the 
+    system through three examples: "Pardon?", moving the ear forward; "Greetings", moving a hand towards the "Bye-bye" gesture; "Take a 
+    break", moving the hands away from the keyboard, enabling the bodily extensions that support movement in everyday life. From the 
+    thematic analysis of a field study with 12 participants, we identified three themes: bodily awareness, Perception of the scenarios,
+    and anticipating movement. We discuss our findings in relation to prior research around bodily extensions and embodied interaction to 
+    provide strategies to design bodily extensions that support movement in everyday life. Ultimately, we hope that our work helps more 
+    people profit from the benefits of everyday movement support.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
