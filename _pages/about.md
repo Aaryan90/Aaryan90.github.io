@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am a 2nd-year PhD student at the Exertion Games Lab, Monash University, Australia. I am advised by Prof. Florian 'Floyd' Mueller and Prof. Elise van den Hoven. My research is around building and evaluating user experiences for bodily extensions that promote embodiment across everday life. 
+Hi, I am a 3rd-year PhD student at the Exertion Games Lab, Monash University, Australia. I am advised by Prof. Florian 'Floyd' Mueller and Prof. Elise van den Hoven. My research is around building and evaluating user experiences for bodily extensions that promote embodiment across everyday life. 
 
-My research interest span across soft exoskeletons, embodied interaction, novel interactions and wearables at large. Previosly, I worked as a research intern/assistant at Microsoft Research India and Weave Lab, IIIT-Delhi. 
+My research interest span across soft exoskeletons, embodied interaction, novel interactions and wearables at large. Previously, I worked as a research intern/assistant at Microsoft Research India and Weave Lab, IIIT-Delhi. 
 
 In my spare time I enjoy hacking hardware, playing and watching sports, and hiking. 
