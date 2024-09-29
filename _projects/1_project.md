@@ -29,11 +29,5 @@ Prior research around the design of interactive systems has highlighted the bene
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    PneuMa Bodily Extensions: A) “Pardon”, B) “Greetings”, and C) "Take a break".
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-{% endraw %}
