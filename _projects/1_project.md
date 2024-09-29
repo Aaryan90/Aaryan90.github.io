@@ -9,23 +9,9 @@ related_publications: einstein1956investigations, einstein1950meaning
 ---
 Prior research around the design of interactive systems has highlighted the benefits of supporting embodiment in everyday life. This resulted in the creation of body-centric systems that leverage movement. However, these advances supporting movement in everyday life, aligning with the embodiment theory, so far focused on sensing movement as opposed to facilitating movement. We present PneuMa, a novel wearable system that can facilitate movement in everyday life through pneumatic-based bodily extensions. We showcase the system through three examples: "Pardon?", moving the ear forward; "Greetings", moving a hand towards the "Bye-bye" gesture; "Take a break", moving the hands away from the keyboard, enabling the bodily extensions that support movement in everyday life. From the thematic analysis of a field study with 12 participants, we identified three themes: bodily awareness, Perception of the scenarios, and anticipating movement. We discuss our findings in relation to prior research around bodily extensions and embodied interaction to provide strategies to design bodily extensions that support movement in everyday life. Ultimately, we hope that our work helps more people profit from the benefits of everyday movement support.
 
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div> -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/pneuma.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pneuma1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
