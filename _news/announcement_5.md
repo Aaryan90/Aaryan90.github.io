@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Participating in the DIS'24 doctoral consortium and serving as an SV chair. 
+Participating in the DIS '24 doctoral consortium and serving as an SV chair. 
