@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Serving as an assistant to the general chairs and presenting PneuMa at the videoshowcase at CHI'24 in Honolulu, HA.
+Serving as an assistant to the general chairs and presenting PneuMa in the video showcase at CHI'24 in Honolulu, Hawai'i.
