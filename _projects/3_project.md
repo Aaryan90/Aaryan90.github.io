@@ -18,5 +18,3 @@ Wearable technology has evolved to encompass a broad spectrum of devices that ca
 <div class="caption">
     Players engaged in a "Two Truths and a Lie" game with the Pneunocchio nose augmentation.
 </div>
-
-{% endraw %}
