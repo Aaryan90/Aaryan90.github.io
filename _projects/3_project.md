@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pneunocchio
-description:A playful nose augmentation for facilitating embodied representation
+description: A playful nose augmentation for facilitating embodied representation.
 img: assets/img/disp2.png
 importance: 2
 category: work
