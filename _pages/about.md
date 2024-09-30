@@ -23,5 +23,4 @@ Hi, I am a PhD student at the <a href='https://exertiongameslab.org/'>Exertion G
 
 My research interests span across soft exoskeletons, embodied interaction, novel interactions, and wearables. Previously, I worked as a research intern/assistant at Microsoft Research India and <a href='https://weave.iiitd.edu.in/'>Weave Lab, IIIT-Delhi</a>. 
 
-In my spare time, I enjoy hacking hardware, playing and watching sports, and hiking. 
-s
+In my spare time, I enjoy hacking hardware, playing and watching sports, and hiking.
