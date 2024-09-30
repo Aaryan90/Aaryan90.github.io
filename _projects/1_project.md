@@ -3,7 +3,7 @@ layout: page
 title: PneuMa
 description: Designing pneumatic bodily extensions for supporting movement in everyday life
 img: assets/img/disp.png
-importance: 1
+importance: 2
 category: work
 related_publications: saini_Pneuma_video_chi,saini_pneuma_2024
 ---
